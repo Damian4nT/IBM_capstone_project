@@ -1,5 +1,15 @@
 # 📊 Developer Survey & Job Market Analysis
 
+### 📁 Project Structure:
+
+project
+
+- **[Data_collection](https://github.com/Damian4nT/Stack_Overflow_survey_analysis/tree/main/Data_collection)**
+- **[Data_Wrangling](https://github.com/Damian4nT/Stack_Overflow_survey_analysis/tree/main/Data_wrangling)**
+- **[Exploratory_Data_Analysis](https://github.com/Damian4nT/Stack_Overflow_survey_analysis/tree/main/Exploratory_Data_Analysis)**
+- **[Data_Visualization](https://github.com/Damian4nT/Stack_Overflow_survey_analysis/tree/main/Data_Visualization)**
+- **[Final_Report](https://github.com/Damian4nT/Stack_Overflow_survey_analysis/blob/main/Final_Report_Technologies_and_Demographics.pdf)**
+- **README.md**
 
 ### 📌 Project Overview
 
@@ -16,7 +26,12 @@ The goal is to simulate a real-world data analysis workflow, combining multiple 
 - Identify key factors influencing developer compensation
 - Analyze popularity of programming languages, databases, and tools
 - Compare trends across countries and employment types
-  
+
+### 🛠️ Tools & Technologies:
+- Python (Pandas, NumPy, Matplotlib & Seaborn)
+- SQL (SQLite) in labs: [16](https://github.com/Damian4nT/Stack_Overflow_survey_analysis/blob/main/Data_Visualization/16_Data_Visualization.ipynb), [17](https://github.com/Damian4nT/Stack_Overflow_survey_analysis/blob/main/Data_Visualization/17_Histograms.ipynb), [18](https://github.com/Damian4nT/Stack_Overflow_survey_analysis/blob/main/Data_Visualization/18_Box_Plot.ipynb)
+- Jupyter Notebook
+
 ### 📂 Data Sources:
 - Stack Overflow Developer Survey 2024 (CSV)
 - Naukri.com job postings (API, JSON)
@@ -65,24 +80,6 @@ The goal is to simulate a real-world data analysis workflow, combining multiple 
 ### PostgreSQL is the most popular database
 <img width="689" height="361" alt="image" src="https://github.com/user-attachments/assets/a23f37f7-aae9-4507-8791-8ee527a82f3e" />
 
-
-
-
-### 🛠️ Tools & Technologies:
-- Python (Pandas, NumPy, Matplotlib & Seaborn)
-- SQL (SQLite) in labs: [16](https://github.com/Damian4nT/Stack_Overflow_survey_analysis/blob/main/Data_Visualization/16_Data_Visualization.ipynb), [17](https://github.com/Damian4nT/Stack_Overflow_survey_analysis/blob/main/Data_Visualization/17_Histograms.ipynb), [18](https://github.com/Damian4nT/Stack_Overflow_survey_analysis/blob/main/Data_Visualization/18_Box_Plot.ipynb)
-- Jupyter Notebook
-
-### 📁 Project Structure:
-
-project
-
-- **[Data_collection](https://github.com/Damian4nT/Stack_Overflow_survey_analysis/tree/main/Data_collection)**
-- **[Data_Wrangling](https://github.com/Damian4nT/Stack_Overflow_survey_analysis/tree/main/Data_wrangling)**
-- **[Exploratory_Data_Analysis](https://github.com/Damian4nT/Stack_Overflow_survey_analysis/tree/main/Exploratory_Data_Analysis)**
-- **[Data_Visualization](https://github.com/Damian4nT/Stack_Overflow_survey_analysis/tree/main/Data_Visualization)**
-- **[Final_Report](https://github.com/Damian4nT/Stack_Overflow_survey_analysis/blob/main/Final_Report_Technologies_and_Demographics.pdf)**
-- **README.md**
 
 ### Data source
 https://survey.stackoverflow.co/ (year 2024)
